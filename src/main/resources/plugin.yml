@@ -1,0 +1,7 @@
+name: Guilds
+description: Guilds base for Oliver
+version: 0.1
+main: com.yewstudios.guilds.Guilds
+depend: [Vault]
+author: [Mat]
+commands:
